@@ -999,7 +999,7 @@
             ]
         }
     ],
-    "knockout": {
+    "knockoutphases": {
         "round16": {
             "id":"round16",
             "name": "Round of 16",
