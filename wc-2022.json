@@ -1000,7 +1000,7 @@
         }
     ],
     "knockout": {
-        "round_16": {
+        "round16": {
             "id":"round16",
             "name": "Round of 16",
             "matches": [
@@ -1134,7 +1134,7 @@
                 }
             ]
         },
-        "round_8": {
+        "round8": {
             "id":"round8",
             "name": "Quarter-finals",
             "matches": [
@@ -1204,7 +1204,7 @@
                 }
             ]
         },
-        "round_4": {
+        "round4": {
             "id":"round4",
             "name": "Semi-finals",
             "matches": [
@@ -1264,7 +1264,7 @@
                 }
             ]
         },
-        "round_2": {
+        "round2": {
             "id": "round2",
             "name": "Final",
             "matches": [
