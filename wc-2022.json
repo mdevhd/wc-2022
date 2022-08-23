@@ -1,0 +1,1290 @@
+{
+    "stadiums": [
+        {
+            "id": "BAY",
+            "name": "Al Bayt Stadium",
+            "city": "Al Khor",
+            "image": "https://www.qatar2022.qa/sites/default/files/styles/image_side_by_side_big/public/images/side-by-side-images/al-bayt-stadium-interior_0.jpg"
+        },
+        {
+            "id": "JAN",
+            "name": "Al Janoub Stadium",
+            "city": "Al Wukair",
+            "image": "https://www.floornature.eu/media/photos/1/14760/07_zha_al-wakrah-stadium_qatar_ph-hufton-crow_full.jpg"
+        },
+        {
+            "id": "LUS",
+            "name": "Lusail Iconic Stadium",
+            "city": "Lusail",
+            "image": "https://media.sudouest.fr/10733189/1000x625/sudouest-photo-1-30664411.jpg"
+        },
+        {
+            "id": "ABI",
+            "name": "Stade Ahmad bin Ali",
+            "city": "Al Rayyan",
+            "image": "https://m.thepeninsulaqatar.com/get/maximage/20210325_1616648101-275624.jpg"
+        },
+        {
+            "id": "EDU",
+            "name": "Education City Stadium",
+            "city": "Al Rayyan",
+            "image": "https://d12eu00glpdtk2.cloudfront.net/public/images/local/education-city-stadium-interior.jpg"
+        },
+        {
+            "id": "THU",
+            "name": "Stade d'Al-Thumama",
+            "city": "Doha",
+            "image": "https://a.cdn-hotels.com/gdcs/production154/d317/2cced988-04de-4aa8-847d-02e8651aa469.jpg"
+        },
+        {
+            "id": "KHA",
+            "name": "Khalifa International Stadium",
+            "city": "Doha",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Khalifa_Stadium%2C_Doha%2C_Brazil_vs_Argentina_%282010%29.jpg"
+        },
+        {
+            "id": "974",
+            "name": "Stadium 974",
+            "city": "Doha",
+            "image": "https://www.avc-group.com/assets/references/974-Stadium/ReferenceAVCGroup974Stadium5__FillWzc0MCw1NTVd.jpg"
+        }
+    ],
+    "teams": [
+        {
+            "id": 1,
+            "name": "Qatar",
+            "fifaCode": "QAT",
+            "iso2": "qa",
+            "flag": "https://en.wikipedia.org/wiki/Flag_of_Qatar#/media/File:Flag_of_Qatar.svg",
+            "emoji": "flag-qa"
+        },
+        {
+            "id": 2,
+            "name": "Brazil",
+            "fifaCode": "BRA",
+            "iso2": "br",
+            "flag": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/0\/05\/Flag_of_Brazil.svg\/720px-Flag_of_Brazil.png",
+            "emoji": "flag-br"
+        },
+        {
+            "id": 3,
+            "name": "Belgium",
+            "fifaCode": "BEL",
+            "iso2": "be",
+            "flag": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/65\/Flag_of_Belgium.svg\/450px-Flag_of_Belgium.png",
+            "emoji": "flag-be"        },
+        {
+            "id": 4,
+            "name": "France",
+            "fifaCode": "FRA",
+            "iso2": "fr",
+            "flag": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/c\/c3\/Flag_of_France.svg\/900px-Flag_of_France.png",
+            "emoji": "flag-fr"
+                },
+        {
+            "id": 5,
+            "name": "Argentina",
+            "fifaCode": "ARG",
+            "iso2": "pt",
+            "flag": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/1a\/Flag_of_Argentina.svg\/800px-Flag_of_Argentina.png",
+            "emoji": "flag-pt",
+            "emojiString": "\ud83c\uddf5\ud83c\uddf9"
+        },
+        {
+            "id": 6,
+            "name": "England",
+            "fifaCode": "ENG",
+            "iso2": "gb-eng",
+            "flag": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/b\/be\/Flag_of_England.svg\/800px-Flag_of_England.png",
+            "emoji": "flag-england"
+        },
+        {
+            "id": 7,
+            "name": "Spain",
+            "fifaCode": "SPA",
+            "iso2": "es",
+            "flag": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/9a\/Flag_of_Spain.svg\/750px-Flag_of_Spain.png",
+            "emoji": "flag-es"
+        },
+        {
+            "id": 8,
+            "name": "Portugal",
+            "fifaCode": "POR",
+            "iso2": "pt",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg",
+            "emoji": "flag-pt"
+        },
+        {
+            "id": 9,
+            "name": "Mexico",
+            "fifaCode": "MEX",
+            "iso2": "mx",
+            "flag": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/fc\/Flag_of_Mexico.svg\/800px-Flag_of_Mexico.png",
+            "emoji": "flag-mx"
+        },
+        {
+            "id": 10,
+            "name": "Netherlands",
+            "fifaCode": "NED",
+            "iso2": "nl",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
+            "emoji": "flag-nl",
+            "emojiString": "\ud83c\udde6\ud83c\uddfa"
+        },
+        {
+            "id": 11,
+            "name": "Denmark",
+            "fifaCode": "DEN",
+            "iso2": "dk",
+            "flag": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9c\/Flag_of_Denmark.svg\/740px-Flag_of_Denmark.png",
+            "emoji": "flag-dk",
+            "emojiString": "\ud83c\uddf5\ud83c\uddea"
+        },
+        {
+            "id": 12,
+            "name": "Germany",
+            "fifaCode": "GER",
+            "iso2": "de",
+            "flag": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/b\/ba\/Flag_of_Germany.svg\/800px-Flag_of_Germany.png",
+            "emoji": "flag-de"        },
+        {
+            "id": 13,
+            "name": "Uruguay",
+            "fifaCode": "URU",
+            "iso2": "uy",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+            "emoji": "flag-uy"
+        },
+        {
+            "id": 14,
+            "name": "Switzerland",
+            "fifaCode": "SUI",
+            "iso2": "ch",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg",
+            "emoji": "flag-ch"
+        },
+        {
+            "id": 15,
+            "name": "United States",
+            "fifaCode": "USA",
+            "iso2": "us",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg",
+            "emoji": "flag-us"
+        },
+        {
+            "id": 16,
+            "name": "Croatia",
+            "fifaCode": "CRO",
+            "iso2": "hr",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
+            "emoji": "flag-hr"
+        },
+        {
+            "id": 17,
+            "name": "Senegal",
+            "fifaCode": "SEN",
+            "iso2": "sn",
+            "flag": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/fd\/Flag_of_Senegal.svg\/900px-Flag_of_Senegal.svg.png",
+            "emoji": "flag-sn"
+        },
+        {
+            "id": 18,
+            "name": "Iran",
+            "fifaCode": "IRA",
+            "iso2": "ir",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg",
+            "emoji": "flag-ir"
+        },
+        {
+            "id": 19,
+            "name": "Japan",
+            "fifaCode": "JAP",
+            "iso2": "jp",
+            "flag": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/9e\/Flag_of_Japan.svg\/900px-Flag_of_Japan.png",
+            "emoji": "flag-jp"
+        },
+        {
+            "id": 20,
+            "name": "Morocco",
+            "fifaCode": "MOR",
+            "iso2": "ma",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg",
+            "emoji": "flag-ma"
+        },
+        {
+            "id": 21,
+            "name": "Serbia",
+            "fifaCode": "SER",
+            "iso2": "rs",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg",
+            "emoji": "flag-rs"
+        },
+        {
+            "id": 22,
+            "name": "Poland",
+            "fifaCode": "POL",
+            "iso2": "pl",
+            "flag": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/12\/Flag_of_Poland.svg\/1280px-Flag_of_Poland.png",
+            "emoji": "flag-pl"
+        },
+        {
+            "id": 23,
+            "name": "South Korea",
+            "fifaCode": "KOR",
+            "iso2": "kr",
+            "flag": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/09\/Flag_of_South_Korea.svg\/900px-Flag_of_South_Korea.png",
+            "emoji": "flag-kr"
+        },
+        {
+            "id": 24,
+            "name": "Tunisia",
+            "fifaCode": "TUN",
+            "iso2": "tn",
+            "flag": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/ce\/Flag_of_Tunisia.svg\/1200px-Flag_of_Tunisia.png",
+            "emoji": "flag-tn"
+        },
+        {
+            "id": 25,
+            "name": "Cameroon",
+            "fifaCode": "CAM",
+            "iso2": "cm",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg",
+            "emoji": "flag-cm"
+        },
+        {
+            "id": 26,
+            "name": "Canada",
+            "fifaCode": "CAN",
+            "iso2": "ca",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",
+            "emoji": "flag-ca"
+        },
+        {
+            "id": 27,
+            "name": "Ecuador",
+            "fifaCode": "ECU",
+            "iso2": "ec",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
+            "emoji": "flag-ec"
+        },
+        {
+            "id": 28,
+            "name": "Saudi Arabia",
+            "fifaCode": "KSA",
+            "iso2": "sa",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+            "emoji": "flag-sa"
+        },
+        {
+            "id": 29,
+            "name": "Ghana",
+            "fifaCode": "GHA",
+            "iso2": "gh",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",
+            "emoji": "flag-gh"
+        },
+        {
+            "id": 30,
+            "name": "Wales",
+            "fifaCode": "WAL",
+            "iso2": "wales",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Flag_of_Wales.svg",
+            "emoji": "flag-wales"
+        },
+        {
+            "id": 31,
+            "name": "Australia",
+            "fifaCode": "AUS",
+            "iso2": "au",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
+            "emoji": "flag-au"
+        },
+        {
+            "id": 32,
+            "name": "Costa Rica",
+            "fifaCode": "CRC",
+            "iso2": "cr",
+            "flag": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/b\/bc\/Flag_of_Costa_Rica_%28state%29.svg\/833px-Flag_of_Costa_Rica_%28state%29.png",
+            "emoji": "flag-cr"
+        }
+    ],
+    "groups": [
+        {
+            "id":"a",
+            "name": "Group A",
+            "winner": "",
+            "runnerup":"",
+            "matches": [
+                {
+                    "id":1,
+                    "name": "1",
+                    "type": "group",
+                    "home_team": "QAT",
+                    "away_team": "ECU",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-11-20T19:00:00+03:00",
+                    "stadium": "BAY",
+                    "finished": true,
+                    "matchday": 1
+                },
+                {
+                    "id":2,
+                    "name": "2",
+                    "type": "group",
+                    "home_team": "SEN",
+                    "away_team": "NED",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-11-21T19:00:00+03:00",
+                    "stadium": "THU",
+                    "finished": true,
+                    "matchday": 1
+                },
+                {
+                    "id":17,
+                    "name": "17",
+                    "type": "group",
+                    "home_team": "QAT",
+                    "away_team": "SEN",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-11-25T16:00:00+03:00",
+                    "stadium": "THU",
+                    "finished": true,
+                    "matchday": 2
+                },
+                {
+                    "id":18,
+                    "name": "18",
+                    "type": "group",
+                    "home_team": "NED",
+                    "away_team": "ECU",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-11-25T19:00:00+03:00",
+                    "stadium": "KHA",
+                    "finished": true,
+                    "matchday": 2
+                },
+                {
+                    "id":33,
+                    "name": "34",
+                    "type": "group",
+                    "home_team": "NED",
+                    "away_team": "QAT",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-11-29T18:00:00+03:00",
+                    "stadium": "BAY",
+                    "finished": true,
+                    "matchday": 3
+                },
+                {
+                    "id":34,
+                    "name": "34",
+                    "type": "group",
+                    "home_team": "ECU",
+                    "away_team": "SEN",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-11-29T18:00:00+03:00",
+                    "stadium": "KHA",
+                    "finished": true,
+                    "matchday": 3
+                }
+            
+            ]
+        }
+        ,
+        {
+            "id":"b",
+            "name": "Group B",
+            "winner": "",
+            "runnerup": "",
+            "matches": [
+                {
+                    "id":3,
+                    "name": "3",
+                    "type": "group",
+                    "home_team": "ENG",
+                    "away_team": "IRA",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-11-21T16:00:00+03:00",
+                    "stadium": "KHA",
+                    "finished": true,
+                    "matchday": 1
+                },
+                {
+                    "id":4,
+                    "name": "4",
+                    "type": "group",
+                    "home_team": "USA",
+                    "away_team": "WAL",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-11-21T22:00:00+03:00",
+                    "stadium": "ABI",
+                    "finished": true,
+                    "matchday": 1
+                },
+                {
+                    "id":19,
+                    "name": "19",
+                    "type": "group",
+                    "home_team": "WAL",
+                    "away_team": "IRA",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-11-25T13:00:00+03:00",
+                    "stadium": "ABI",
+                    "finished": true,
+                    "matchday": 2
+                },
+                {
+                    "id":20,
+                    "name": "20",
+                    "type": "group",
+                    "home_team": "ENG",
+                    "away_team": "USA",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-11-25T22:00:00+03:00",
+                    "stadium": "BAY",
+                    "finished": true,
+                    "matchday": 2
+                },
+                {
+                    "id":35,
+                    "name": "35",
+                    "type": "group",
+                    "home_team": "WAL",
+                    "away_team": "ENG",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-11-29T22:00:00+03:00",
+                    "stadium": "ABI",
+                    "finished": true,
+                    "matchday": 3
+                },
+                {
+                    "id":36,
+                    "name": "36",
+                    "type": "group",
+                    "home_team": "IRA",
+                    "away_team": "USA",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-11-29T22:00:00+03:00",
+                    "stadium": "THU",
+                    "finished": true,
+                    "matchday": 3
+                }
+            ]
+        },
+        {
+            "id":"c",
+            "name": "Group C",
+            "winner": "",
+            "runnerup": "",
+            "matches": [
+                {
+                    "id":5,
+                    "name": "5",
+                    "type": "group",
+                    "home_team": "ARG",
+                    "away_team": "KSA",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-11-22T13:00:00+03:00",
+                    "stadium": "LUS",
+                    "finished": true,
+                    "matchday": 1
+                },
+                {
+                    "id":6,
+                    "name": "6",
+                    "type": "group",
+                    "home_team": "MEX",
+                    "away_team": "POL",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-11-22T19:00:00+03:00",
+                    "stadium": "974",
+                    "finished": true,
+                    "matchday": 1
+                },
+                {
+                    "id":21,
+                    "name": "21",
+                    "type": "group",
+                    "home_team": "POL",
+                    "away_team": "KSA",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-11-26T16:00:00+03:00",
+                    "stadium": "EDU",
+                    "finished": true,
+                    "matchday": 2
+                },
+                {
+                    "id":22,
+                    "name": "22",
+                    "type": "group",
+                    "home_team": "ARG",
+                    "away_team": "MEX",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-11-26T22:00:00+03:00",
+                    "stadium": "LUS",
+                    "finished": true,
+                    "matchday": 2
+                },
+                {
+                    "id":37,
+                    "name": "37",
+                    "type": "group",
+                    "home_team": "POL",
+                    "away_team": "ARG",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-11-30T22:00:00+03:00",
+                    "stadium": "974",
+                    "finished": true,
+                    "matchday": 3
+                },
+                {
+                    "id":38,
+                    "name": "38",
+                    "type": "group",
+                    "home_team": "KSA",
+                    "away_team": "MEX",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-11-30T22:00:00+03:00",
+                    "stadium": "LUS",
+                    "finished": true,
+                    "matchday": 3
+                }
+            ]
+        },
+        {
+            "id":"d",
+            "name": "Group D",
+            "winner": "",
+            "runnerup": "",
+            "matches": [
+                {
+                    "id":7,
+                    "name": "7",
+                    "type": "group",
+                    "home_team": "DEN",
+                    "away_team": "TUN",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-11-22T16:00:00+03:00",
+                    "stadium": "EDU",
+                    "finished": true,
+                    "matchday": 1
+                },
+                {
+                    "id":8,
+                    "name": "8",
+                    "type": "group",
+                    "home_team": "FRA",
+                    "away_team": "AUS",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-11-22T22:00:00+03:00",
+                    "stadium": "JAN",
+                    "finished": true,
+                    "matchday": 1
+                },
+                {
+                    "id":23,
+                    "name": "23",
+                    "type": "group",
+                    "home_team": "TUN",
+                    "away_team": "AUS",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-11-26T13:00:00+03:00",
+                    "stadium": "JAN",
+                    "finished": true,
+                    "matchday": 2
+                },
+                {
+                    "id":24,
+                    "name": "24",
+                    "type": "group",
+                    "home_team": "FRA",
+                    "away_team": "DEN",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-11-26T19:00:00+03:00",
+                    "stadium": "974",
+                    "finished": true,
+                    "matchday": 2
+                },
+                {
+                    "id":39,
+                    "name": "39",
+                    "type": "group",
+                    "home_team": "AUS",
+                    "away_team": "DEN",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-11-30T18:00:00+03:00",
+                    "stadium": "JAN",
+                    "finished": true,
+                    "matchday": 3
+                },
+                {
+                    "id":40,
+                    "name": "40",
+                    "type": "group",
+                    "home_team": "TUN",
+                    "away_team": "FRA",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-11-30T18:00:00+03:00",
+                    "stadium": "EDU",
+                    "finished": true,
+                    "matchday": 3
+                }
+            ]
+        },
+        {
+            "id":"e",
+            "name": "Group E",
+            "winner": "",
+            "runnerup": "",
+            "matches": [
+                {
+                    "id":9,
+                    "name": "9",
+                    "type": "group",
+                    "home_team": "GER",
+                    "away_team": "JAP",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-11-23T16:00:00+03:00",
+                    "stadium": "KHA",
+                    "finished": true,
+                    "matchday": 1
+                },
+                {
+                    "id":10,
+                    "name": "10",
+                    "type": "group",
+                    "home_team": "SPA",
+                    "away_team": "CRC",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-11-23T19:00:00+03:00",
+                    "stadium": "THU",
+                    "finished": true,
+                    "matchday": 1
+                },
+                {
+                    "id":25,
+                    "name": "25",
+                    "type": "group",
+                    "home_team": "JAP",
+                    "away_team": "CRC",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-11-27T13:00:00+03:00",
+                    "stadium": "ABI",
+                    "finished": true,
+                    "matchday": 2
+                },
+                {
+                    "id":26,
+                    "name": "26",
+                    "type": "group",
+                    "home_team": "SPA",
+                    "away_team": "GER",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-11-27T22:00:00+03:00",
+                    "stadium": "BAY",
+                    "finished": true,
+                    "matchday": 2
+                },
+                {
+                    "id":41,
+                    "name": "41",
+                    "type": "group",
+                    "home_team": "JAP",
+                    "away_team": "SPA",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-12-01T22:00:00+03:00",
+                    "stadium": "KHA",
+                    "finished": true,
+                    "matchday": 3
+                },
+                {
+                    "id":42,
+                    "name": "42",
+                    "type": "group",
+                    "home_team": "CRC",
+                    "away_team": "GER",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-12-01T22:00:00+03:00",
+                    "stadium": "BAY",
+                    "finished": true,
+                    "matchday": 3
+                }
+            ]
+        },
+        {
+            "id":"f",
+            "name": "Group F",
+            "winner": "",
+            "runnerup": "",
+            "matches": [
+                {
+                    "id":11,
+                    "name": "11",
+                    "type": "group",
+                    "home_team": "MOR",
+                    "away_team": "CRO",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-11-23T13:00:00+03:00",
+                    "stadium": "BAY",
+                    "finished": true,
+                    "matchday": 1
+                },
+                {
+                    "id":12,
+                    "name": "12",
+                    "type": "group",
+                    "home_team": "BEL",
+                    "away_team": "CAN",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-11-23T22:00:00+03:00",
+                    "stadium": "ABI",
+                    "finished": true,
+                    "matchday": 1
+                },
+                {
+                    "id":27,
+                    "name": "27",
+                    "type": "group",
+                    "home_team": "BEL",
+                    "away_team": "MAR",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-11-27T16:00:00+03:00",
+                    "stadium": "THU",
+                    "finished": true,
+                    "matchday": 2
+                },
+                {
+                    "id":28,
+                    "name": "28",
+                    "type": "group",
+                    "home_team": "CRO",
+                    "away_team": "CAN",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-11-27T19:00:00+03:00",
+                    "stadium": "KHA",
+                    "finished": true,
+                    "matchday": 2
+                },
+                {
+                    "id":43,
+                    "name": "43",
+                    "type": "group",
+                    "home_team": "CRO",
+                    "away_team": "BEL",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-12-01T18:00:00+03:00",
+                    "stadium": "ABI",
+                    "finished": true,
+                    "matchday": 3
+                },
+                {
+                    "id":44,
+                    "name": "44",
+                    "type": "group",
+                    "home_team": "CAN",
+                    "away_team": "MOR",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-12-01T18:00:00+03:00",
+                    "stadium": "THU",
+                    "finished": true,
+                    "matchday": 3
+                }
+            ]
+        },
+        {   
+            "id":"g",
+            "name": "Group G",
+            "winner": "",
+            "runnerup": "",
+            "matches": [
+                {
+                    "id":13,
+                    "name": "13",
+                    "type": "group",
+                    "home_team": "SUI",
+                    "away_team": "CAM",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-11-24T13:00:00+03:00",
+                    "stadium": "JAN",
+                    "finished": true,
+                    "matchday": 1
+                },
+                {
+                    "id":14,
+                    "name": "14",
+                    "type": "group",
+                    "home_team": "BRA",
+                    "away_team": "SER",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-11-24T22:00:00+03:00",
+                    "stadium": "LUS",
+                    "finished": true,
+                    "matchday": 1
+                },
+                {
+                    "id":29,
+                    "name": "29",
+                    "type": "group",
+                    "home_team": "CAM",
+                    "away_team": "SER",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-11-28T13:00:00+03:00",
+                    "stadium": "JAN",
+                    "finished": true,
+                    "matchday": 2
+                },
+                {
+                    "id":30,
+                    "name": "30",
+                    "type": "group",
+                    "home_team": "BRA",
+                    "away_team": "SUI",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-11-28T19:00:00+03:00",
+                    "stadium": "974",
+                    "finished": true,
+                    "matchday": 2
+                },
+                {
+                    "id":45,
+                    "name": "45",
+                    "type": "group",
+                    "home_team": "SER",
+                    "away_team": "SUI",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-12-02T22:00:00+03:00",
+                    "stadium": "974",
+                    "finished": true,
+                    "matchday": 3
+                },
+                {
+                    "id":46,
+                    "name": "46",
+                    "type": "group",
+                    "home_team": "CAM",
+                    "away_team": "BRA",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-12-02T22:00:00+03:00",
+                    "stadium": "LUS",
+                    "finished": true,
+                    "matchday": 3
+                }
+            ]
+        },
+        {   "id":"h",
+            "name": "Group H",
+            "winner": "",
+            "runnerup": "",
+            "matches": [
+                {
+                    "id":15,
+                    "name": "15",
+                    "type": "group",
+                    "home_team": "URU",
+                    "away_team": "KOR",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-11-24T16:00:00+03:00",
+                    "stadium": "EDU",
+                    "finished": true,
+                    "matchday": 1
+                },
+                {
+                    "id":16,
+                    "name": "16",
+                    "type": "group",
+                    "home_team": "POR",
+                    "away_team": "GHA",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-11-24T19:00:00+03:00",
+                    "stadium": "974",
+                    "finished": true,
+                    "matchday": 1
+                },
+                {
+                    "id":31,
+                    "name": "31",
+                    "type": "group",
+                    "home_team": "KOR",
+                    "away_team": "GHA",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-11-28T16:00:00+03:00",
+                    "stadium": "EDU",
+                    "finished": true,
+                    "matchday": 2
+                },
+                {
+                    "id":32,
+                    "name": "32",
+                    "type": "group",
+                    "home_team": "POR",
+                    "away_team": "URU",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-11-28T22:00:00+03:00",
+                    "stadium": "LUS",
+                    "finished": true,
+                    "matchday": 2
+                },
+                {
+                    "id":47,
+                    "name": "47",
+                    "type": "group",
+                    "home_team": "GHA",
+                    "away_team": "URU",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-12-02T18:00:00+03:00",
+                    "stadium": "JAN",
+                    "finished": true,
+                    "matchday": 3
+                },
+                {
+                    "id":48,
+                    "name": "48",
+                    "type": "group",
+                    "home_team": "KOR",
+                    "away_team": "POR",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "date": "2022-12-02T18:00:00+03:00",
+                    "stadium": "EDU",
+                    "finished": true,
+                    "matchday": 3
+                }
+            ]
+        }
+    ],
+    "knockout": {
+        "round_16": {
+            "id":"round16",
+            "name": "Round of 16",
+            "matches": [
+                {
+                    "id": 49,
+                    "name": 49,
+                    "matchtype": "knockout",
+                    "home_team": "",
+                    "away_team": "",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "home_penalty": null,
+                    "away_penalty": null,
+                    "winner": "",
+                    "date": "2022-12-03T18:00:00+03:00",
+                    "stadium": "KHA",
+                    "finished": true,
+                    "matchday": 4
+                },
+                {
+                    "id": 50,
+                    "name": 50,
+                    "matchtype": "knockout",
+                    "home_team": "",
+                    "away_team": "",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "home_penalty": null,
+                    "away_penalty": null,
+                    "winner": "",
+                    "date": "2022-12-03T22:00:00+03:00",
+                    "stadium": "ABI",
+                    "finished": true,
+                    "matchday": 4
+                },
+                {
+                    "id": 51,
+                    "name": 51,
+                    "matchtype": "knockout",
+                    "home_team": "",
+                    "away_team": "",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "home_penalty": null,
+                    "away_penalty": null,
+                    "winner": "",
+                    "date": "2022-12-04T22:00:00+03:00",
+                    "stadium": "BAY",
+                    "finished": true,
+                    "matchday": 4
+                },
+                {
+                    "id": 52,
+                    "name": 52,
+                    "matchtype": "knockout",
+                    "home_team": "",
+                    "away_team": "",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "home_penalty": null,
+                    "away_penalty": null,
+                    "winner": "",
+                    "date": "2022-12-04T18:00:00+03:00",
+                    "stadium": "THU",
+                    "finished": true,
+                    "matchday": 4
+                },
+                {
+                    "id": 53,
+                    "name": 53,
+                    "matchtype": "knockout",
+                    "home_team": "",
+                    "away_team": "",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "home_penalty": null,
+                    "away_penalty": null,
+                    "winner": "",
+                    "date": "2022-12-05T18:00:00+03:00",
+                    "stadium": "JAN",
+                    "finished": true,
+                    "matchday": 4
+                },
+                {
+                    "id": 54,
+                    "name": 54,
+                    "matchtype": "knockout",
+                    "home_team": "",
+                    "away_team": "",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "home_penalty": null,
+                    "away_penalty": null,
+                    "winner": "",
+                    "date": "2022-12-05T22:00:00+03:00",
+                    "stadium": "974",
+                    "finished": true,
+                    "matchday": 4
+                },
+                {
+                    "id": 55,
+                    "name": 55,
+                    "matchtype": "knockout",
+                    "home_team": "",
+                    "away_team": "",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "home_penalty": null,
+                    "away_penalty": null,
+                    "winner": "",
+                    "date": "2022-12-06T18:00:00+03:00",
+                    "stadium": "EDU",
+                    "finished": true,
+                    "matchday": 4
+                },
+                {
+                    "id": 56,
+                    "name": 56,
+                    "matchtype": "knockout",
+                    "home_team": "",
+                    "away_team": "",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "home_penalty": null,
+                    "away_penalty": null,
+                    "winner": "",
+                    "date": "2022-12-06T22:00:00+03:00",
+                    "stadium": "LUS",
+                    "finished": true,
+                    "matchday": 4
+                }
+            ]
+        },
+        "round_8": {
+            "id":"round8",
+            "name": "Quarter-finals",
+            "matches": [
+                {
+                    "id": 57,
+                    "name": 57,
+                    "matchtype": "knockout",
+                    "home_team": "",
+                    "away_team": "",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "home_penalty": null,
+                    "away_penalty": null,
+                    "winner": "",
+                    "date": "2022-12-09T22:00:00+03:00",
+                    "stadium": "LUS",
+                    "finished": true,
+                    "matchday": 5
+                },
+                {
+                    "id": 58,
+                    "name": 58,
+                    "matchtype": "knockout",
+                    "home_team": "",
+                    "away_team": "",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "home_penalty": null,
+                    "away_penalty": null,
+                    "winner": "",
+                    "date": "2022-12-09T18:00:00+03:00",
+                    "stadium": "EDU",
+                    "finished": true,
+                    "matchday": 5
+                },
+                {
+                    "id": 59,
+                    "name": 59,
+                    "matchtype": "knockout",
+                    "home_team": "",
+                    "away_team": "",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "home_penalty": null,
+                    "away_penalty": null,
+                    "winner": "",
+                    "date": "2022-12-10T22:00:00+03:00",
+                    "stadium": "BAY",
+                    "finished": true,
+                    "matchday": 5
+                },
+                {
+                    "id": 60,
+                    "name": 60,
+                    "matchtype": "knockout",
+                    "home_team": "",
+                    "away_team": "",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "home_penalty": null,
+                    "away_penalty": null,
+                    "winner": "",
+                    "date": "2022-12-10T21:00:00+03:00",
+                    "stadium": "THU",
+                    "finished": true,
+                    "matchday": 5
+                }
+            ]
+        },
+        "round_4": {
+            "id":"round4",
+            "name": "Semi-finals",
+            "matches": [
+                {
+                    "id": 61,
+                    "name": 61,
+                    "matchtype": "knockout",
+                    "home_team": "",
+                    "away_team": "",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "home_penalty": null,
+                    "away_penalty": null,
+                    "winner": "",
+                    "date": "2022-12-13T22:00:00+03:00",
+                    "stadium": "LUS",
+                    "finished": true,
+                    "matchday": 6
+                },
+                {
+                    "id": 62,
+                    "name": 62,
+                    "matchtype": "knockout",
+                    "home_team": "",
+                    "away_team": "",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "home_penalty": null,
+                    "away_penalty": null,
+                    "winner": "",
+                    "date": "2022-12-14T22:00:00+03:00",
+                    "stadium": "BAY",
+                    "finished": true,
+                    "matchday": 6
+                }
+            ]
+        },
+        "round2_loser": {
+            "id":"round2_loser",
+            "name": "Third place play-off",
+            "matches": [
+                {
+                    "id": 63,
+                    "name": 63,
+                    "matchtype": "knockout",
+                    "home_team": "",
+                    "away_team": "",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "home_penalty": null,
+                    "away_penalty": null,
+                    "winner": "",
+                    "date": "2022-12-17T18:00:00+03:00",
+                    "stadium": "KHA",
+                    "finished": true,
+                    "matchday": 7
+                }
+            ]
+        },
+        "round_2": {
+            "id": "round2",
+            "name": "Final",
+            "matches": [
+                {
+                    "id": 64,
+                    "name": 64,
+                    "matchtype": "knockout",
+                    "home_team": "",
+                    "away_team": "",
+                    "home_result": 0,
+                    "away_result": 0,
+                    "home_penalty": null,
+                    "away_penalty": null,
+                    "winner": "",
+                    "date": "2022-12-18T18:00:00+03:00",
+                    "stadium": "LUS",
+                    "finished": true,
+                    "matchday": 7
+                }
+            ]
+        }
+    }
+}
