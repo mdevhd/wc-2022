@@ -4,48 +4,56 @@
             "id": "BAY",
             "name": "Al Bayt Stadium",
             "city": "Al Khor",
+            "country":"Qatar",
             "image": "https://www.qatar2022.qa/sites/default/files/styles/image_side_by_side_big/public/images/side-by-side-images/al-bayt-stadium-interior_0.jpg"
         },
         {
             "id": "JAN",
             "name": "Al Janoub Stadium",
             "city": "Al Wukair",
+            "country":"Qatar",
             "image": "https://www.floornature.eu/media/photos/1/14760/07_zha_al-wakrah-stadium_qatar_ph-hufton-crow_full.jpg"
         },
         {
             "id": "LUS",
             "name": "Lusail Iconic Stadium",
             "city": "Lusail",
+            "country":"Qatar",
             "image": "https://media.sudouest.fr/10733189/1000x625/sudouest-photo-1-30664411.jpg"
         },
         {
             "id": "ABI",
             "name": "Stade Ahmad bin Ali",
             "city": "Al Rayyan",
+            "country":"Qatar",
             "image": "https://m.thepeninsulaqatar.com/get/maximage/20210325_1616648101-275624.jpg"
         },
         {
             "id": "EDU",
             "name": "Education City Stadium",
             "city": "Al Rayyan",
+            "country":"Qatar",
             "image": "https://d12eu00glpdtk2.cloudfront.net/public/images/local/education-city-stadium-interior.jpg"
         },
         {
             "id": "THU",
             "name": "Stade d'Al-Thumama",
             "city": "Doha",
+            "country":"Qatar",
             "image": "https://a.cdn-hotels.com/gdcs/production154/d317/2cced988-04de-4aa8-847d-02e8651aa469.jpg"
         },
         {
             "id": "KHA",
             "name": "Khalifa International Stadium",
             "city": "Doha",
+            "country":"Qatar",
             "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Khalifa_Stadium%2C_Doha%2C_Brazil_vs_Argentina_%282010%29.jpg"
         },
         {
             "id": "974",
             "name": "Stadium 974",
             "city": "Doha",
+            "country":"Qatar",
             "image": "https://www.avc-group.com/assets/references/974-Stadium/ReferenceAVCGroup974Stadium5__FillWzc0MCw1NTVd.jpg"
         }
     ],
